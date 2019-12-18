@@ -54,8 +54,6 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 * **Jeffrey Wu** - *Initial work* - [JesWu](https://github.com/JesWu/)
 * **Vin** - [CrystBearer](https://github.com/CrystBearer)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
@@ -64,4 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * [Discord Documentation](https://discordapp.com/developers/docs/intro)
 * [DiscordJS Guide](https://discordjs.guide/#before-you-begin)
+* [Madlibz](https://madlibz.herokuapp.com/api)
 
